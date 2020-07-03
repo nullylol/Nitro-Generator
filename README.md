@@ -1,5 +1,5 @@
 # Nitro-Generator
-i wanted to post soo i just did this
+i wanted to post soo i made this
 
 # Installation
 - pip install colorama
